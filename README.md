@@ -1,4 +1,4 @@
-# WeatherAnalysis
+# Climate's Relationship with Asthma Hospitalization Rates 
 
 # Project Description
 
@@ -16,4 +16,4 @@ Our target audience will be those with asthma as we will be looking into compari
 
 # Technical Description
 
-We will be using APIs, such as the _Weather Data API_, _Air pollution API_, and _Asthma hospitalization API_, as well as the _wild fire data set_ to read in our data and we will be needing to reshape and reformat all of our APIs in order to answer our specific questions. We will using R packages such as  **tidyverse, leaflet, ggplot2, plotly, shiny, highcharter, sunburstR, dygraphs** in order to create creative data visualizations for our project.
+We will be using APIs, such as the _Weather Data API_, _Air pollution API_, and _Asthma hospitalization API_, as well as the _wild fire data set_ to read in our data and we will be needing to reshape and reformat all of our APIs in order to answer our specific questions. We will using R packages such as  **tidyverse, leaflet, ggplot2, plotly, shiny, sunburstR, dygraphs** in order to create creative data visualizations for our project.
